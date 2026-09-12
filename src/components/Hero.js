@@ -28,17 +28,15 @@ export default function Hero() {
         </div>
 
         <h1 className="text-5xl md:text-7xl font-bold mb-6 text-white">
-          AI Integration Engineer
+          Full Stack Web Developer
         </h1>
 
         <p className="text-xl md:text-2xl text-gray-300 mb-8">
-          Computer Engineering graduate specializing in AI integration with
-          proven experience embedding large language models into production web
-          applications. Integrated OpenAI GPT API with real-time SSE streaming,
-          engineered prompt workflows, and built AI-powered features into both a
-          full-stack chat system and an e-commerce platform. Skilled in LLM
-          integration, API design, JWT authentication, and React.js. Ready to
-          integrate AI models into any product from day one.
+          Computer Science Engineering graduate building modern full-stack web
+          applications with React.js, Node.js, Express.js, and MongoDB, with
+          hands-on experience integrating AI models and APIs into real-world
+          projects. Focused on creating scalable applications, intuitive user
+          experiences, and intelligent product features.
         </p>
 
         <div className="flex justify-center space-x-4">

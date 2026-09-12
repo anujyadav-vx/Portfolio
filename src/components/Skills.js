@@ -3,31 +3,45 @@ import Tilt from "react-parallax-tilt";
 
 export default function Skills() {
   const skills = {
-    Language: ["JavaScript", "TypeScript", "HTML5", "CSS3", "Python", "SQL"],
-    Frontend: [
+    "Frontend & Frameworks": [
+      "HTML5",
+      "CSS3",
+      "JavaScript",
       "React.js",
-      "Redux Toolkit",
       "React Hooks",
       "Context API",
       "React Router",
+      "Redux Toolkit",
       "Vite",
       "Tailwind CSS",
       "Bootstrap 5",
-      "Responsive Web Design",
+      "Responsive Design",
+      "Cross-Browser Compatibility",
+      "Pixel Perfect",
+      "Semantic Web",
       "Web Accessibility",
     ],
+
     "Backend & APIs": [
       "Node.js",
       "Express.js",
       "RESTful API Design",
+      "HTTP Request Handling",
       "JWT Authentication",
       "Axios",
-      "SSE",
-      "OpenAI GPT API",
-      "LLM Integration",
+      "Fetch API",
       "Session Management",
+      "Unit Testing",
     ],
-    "Database ": ["MongoDB", "MongoDB Atlas", "Firebase"],
+    "AI & LLM": [
+      "OpenAI API",
+      "LLM API Integration",
+      "Prompt Engineering",
+      "Context Management",
+      "Streaming Responses (SSE)",
+      "AI Application Development",
+    ],
+    "Database ": ["MongoDB", "MongoDB Atlas", "SQL", "Firebase"],
     DevOps: [
       "Git",
       "GitHub",
@@ -36,6 +50,13 @@ export default function Skills() {
       "CI/CD Pipelines",
       "GitHub Actions",
       "Conventional Commits",
+    ],
+    "CMS(AEM)": [
+      "Template Development",
+      "Component Authoring",
+      "Content Authoring",
+      "Page Management",
+      "Content Publishing",
     ],
   };
 

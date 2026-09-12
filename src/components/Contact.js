@@ -43,7 +43,7 @@ export default function Contact() {
             <span>GitHub</span>
           </a>
           <a
-            href="https://www.linkedin.com/in/anujkumar-yadav-169866358/"
+            href="https://www.linkedin.com/in/anujyadav-fswd/"
             className="flex items-center space-x-2 px-6 py-3 bg-white/10 hover:bg-white/20 text-white rounded-full"
           >
             <Linkedin className="w-5 h-5" />
